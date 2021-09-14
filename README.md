@@ -1,8 +1,8 @@
 # Overview
 
-_For this repo, I simply created a hello world program. This is for practice with setting repositories up on github_
+_For this repo, I simply created a hello world program. This is for practice setting repositories up on github_
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/7CK4hBH4c1c)
 
 # Development Environment
 
