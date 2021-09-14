@@ -1,19 +1,16 @@
 # Overview
 
-__For this repo, I simply created a hello world program. This is for practice getting repositories setup in github__
-
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
+_For this repo, I simply created a hello world program. This is for practice with setting repositories up on github_
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+_This program uses python and its default libraries_
 
-{Describe the programming language that you used}
+_It prints Hello World! to the console_
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+_Here is a handy website if you are interested in the print function_
+* [Your Guide to the Python print() Function](https://realpython.com/python-print/)
